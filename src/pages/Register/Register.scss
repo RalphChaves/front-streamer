@@ -1,0 +1,31 @@
+h2 {
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+.Register {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.4rem;
+}
+
+label {
+  display: flex;
+}
+input {
+  width: 20.5rem;
+}
+
+.button {
+  background-color: green;
+  color: white;
+  
+}
+.button:hover {
+    background-color: rgb(26, 206, 26);
+  }
